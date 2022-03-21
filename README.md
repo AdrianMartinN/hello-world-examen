@@ -44,5 +44,22 @@ Para añadir un colaborador seguiremos los siguientes pasos:
 
 [![imagen-2022-03-21-095425.png](https://i.postimg.cc/13hPjCXB/imagen-2022-03-21-095425.png)](https://postimg.cc/2VwPqx4L)
 
+## Paso 3: Creamos una nueva rama en GitHub.
 
+### 1. Para crear una nueva rama clickamos el boton situado arriba a la izquierda llamado *main*.
 
+[![imagen-2022-03-21-100139.png](https://i.postimg.cc/MKXNmyYD/imagen-2022-03-21-100139.png)](https://postimg.cc/3d5tK0V4)
+
+### 2. Una vez clickado mos saldran todas las ramas que tenemos disponibles en nuestro repositorio
+
+[![imagen-2022-03-21-100305.png](https://i.postimg.cc/KvgQYQNd/imagen-2022-03-21-100305.png)](https://postimg.cc/yks0Qm2P)
+
+### 3. Para crear una nueva rama escribimos el nombre de la rama y le damos a create branch y automaticamente nos dirijira a esna nueva rama, en mi caso el nombre de la rama sera _feature_.
+
+[![imagen-2022-03-21-100717.png](https://i.postimg.cc/zvmBJJpb/imagen-2022-03-21-100717.png)](https://postimg.cc/7GVD9rFw)
+
+## Paso 4: Modificacion del archivo _README.MD_ en la nueva rama.
+
+### 1. Una vez que estamos en nuestra rama para modificar el archivo _README.MD_ lo tendremos que seleccionar y darle al lapiz situado arriba a la derecha.
+
+[![imagen-2022-03-21-101119.png](https://i.postimg.cc/Cxd9hb2t/imagen-2022-03-21-101119.png)](https://postimg.cc/87QZwfNB)
