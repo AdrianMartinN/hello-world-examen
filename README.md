@@ -63,3 +63,32 @@ Para añadir un colaborador seguiremos los siguientes pasos:
 ### 1. Una vez que estamos en nuestra rama para modificar el archivo _README.MD_ lo tendremos que seleccionar y darle al lapiz situado arriba a la derecha.
 
 [![imagen-2022-03-21-101119.png](https://i.postimg.cc/Cxd9hb2t/imagen-2022-03-21-101119.png)](https://postimg.cc/87QZwfNB)
+
+### 2. Una vez hechos los cambios pertinentes vamos a la pestaña de abajo añadimos un comentario y le damos al boton *Commit changes*
+
+[![imagen-2022-03-21-101452.png](https://i.postimg.cc/xdGvW1QC/imagen-2022-03-21-101452.png)](https://postimg.cc/FfRkSm75)
+
+### 3. Nos vamos a la opcion de *pull request* y le damos al boton *compare y pull request*
+
+[![imagen-2022-03-21-101654.png](https://i.postimg.cc/tJbWD0w6/imagen-2022-03-21-101654.png)](https://postimg.cc/Kk91vWZc)
+
+### 4. Una vez entardo damos al boton *create pull request*
+
+[![imagen-2022-03-21-101845.png](https://i.postimg.cc/8CDG1t2H/imagen-2022-03-21-101845.png)](https://postimg.cc/87y94BPJ)
+
+### 5. Una vez clickado le daremos al boton *merge pull rquest* para unir la rama _Main_ con la rama _features_.
+
+[![imagen-2022-03-21-102020.png](https://i.postimg.cc/MHZbq25S/imagen-2022-03-21-102020.png)](https://postimg.cc/62SGfPFj)
+
+### 6. Confirmaremos el merge.
+
+[![imagen-2022-03-21-102139.png](https://i.postimg.cc/YCQ4nDNf/imagen-2022-03-21-102139.png)](https://postimg.cc/ZWKK0cMC)
+
+### 7. Una vez realizado el merge ya podremos borrar la rama y ya estaran los cambios realizados.
+
+[![imagen-2022-03-21-102340.png](https://i.postimg.cc/XqwJHpdN/imagen-2022-03-21-102340.png)](https://postimg.cc/JHzMt7pS)
+
+
+
+
+
